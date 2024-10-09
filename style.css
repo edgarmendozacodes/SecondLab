@@ -7,7 +7,6 @@ root {
     --color-background: #27272c; 
 
     --color-on-background: #c5c5ce; 
-
     --color-gradient: linear-gradient(to right, #d367c1, #dedf40, #62cb5c, #00bbcb, #ab79d6); 
 
     --highlight-gradient: linear-gradient(to right, #d367c1, #00bbcb); 
